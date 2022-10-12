@@ -1,2 +1,3 @@
-# PythonAkademi
-Sisterslab Python Akademisi içerisinde anlatılan konular yer almaktadır.
+SistersLab Python Akademisi
+
+Akademi içerisinde anlatılan konular yer almaktadır.
